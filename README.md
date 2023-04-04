@@ -40,3 +40,5 @@ JSON Server API for Rolling Scopes School task "React.API".
     `_page=[integer]`
 
     `_limit=[integer]`
+
+    If `_limit` param is passed api returns a header `X-Total-Count` that countains total number of records.
