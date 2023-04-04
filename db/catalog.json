@@ -594,7 +594,7 @@
     "cover": "assets/images/23872.jpg"
   },
   {
-    "id": 56,
+    "id": 55,
     "artist": "Avantasia",
     "country": "Germany",
     "album": "The Flying Opera - Around the World in 20 Days",
@@ -605,7 +605,7 @@
     "cover": "assets/images/28039.jpg"
   },
   {
-    "id": 57,
+    "id": 56,
     "artist": "Avantasia",
     "country": "Germany",
     "album": "The Mystery of Time",
@@ -616,7 +616,7 @@
     "cover": "assets/images/33753.jpg"
   },
   {
-    "id": 58,
+    "id": 57,
     "artist": "Avantasia",
     "country": "Germany",
     "album": "Ghostlights",
@@ -638,7 +638,7 @@
     "cover": "assets/images/46224.jpg"
   },
   {
-    "id": 60,
+    "id": 59,
     "artist": "Avantasia",
     "country": "Germany",
     "album": "A Paranormal Evening With The Moonflower Society",
@@ -647,5 +647,192 @@
     "genre": "Symphonic Power Metal",
     "rating": 7,
     "cover": "assets/images/50899.jpg"
+  },
+  {
+    "id": 60,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Serenades",
+    "year": 1993,
+    "tracks": 10,
+    "genre": "Death Doom Metal",
+    "rating": 8,
+    "cover": "assets/images/2476.jpg"
+  },
+  {
+    "id": 61,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "The Silent Enigma",
+    "year": 1995,
+    "tracks": 8,
+    "genre": "Atmospheric Doom Metal",
+    "rating": 8,
+    "cover": "assets/images/3057.jpg"
+  },
+  {
+    "id": 62,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Eternity",
+    "year": 1996,
+    "tracks": 12,
+    "genre": "Atmospheric Doom Metal",
+    "rating": 9,
+    "cover": "assets/images/1009.jpg"
+  },
+  {
+    "id": 63,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "A Vision of a Dying Embrace",
+    "year": 1997,
+    "tracks": 17,
+    "genre": "Atmospheric Doom Metal",
+    "rating": 9,
+    "cover": "assets/images/112.jpg"
+  },
+  {
+    "id": 64,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Alternative 4",
+    "year": 1998,
+    "tracks": 10,
+    "genre": "Atmospheric Metal",
+    "rating": 9,
+    "cover": "assets/images/195.jpg"
+  },
+  {
+    "id": 65,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Judgement",
+    "year": 1999,
+    "tracks": 13,
+    "genre": "Atmospheric Rock",
+    "rating": 10,
+    "cover": "assets/images/1571.jpg"
+  },
+  {
+    "id": 66,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "A Fine Day to Exit",
+    "year": 2001,
+    "tracks": 10,
+    "genre": "Atmospheric Rock",
+    "rating": 8,
+    "cover": "assets/images/71.jpg"
+  },
+  {
+    "id": 67,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "A Natural Disaster",
+    "year": 2003,
+    "tracks": 10,
+    "genre": "Atmospheric Rock",
+    "rating": 8,
+    "cover": "assets/images/82.jpg"
+  },
+  {
+    "id": 68,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Were You There?",
+    "year": 2004,
+    "tracks": 16,
+    "genre": "Atmospheric Rock",
+    "rating": 9,
+    "cover": "assets/images/3667.jpg"
+  },
+  {
+    "id": 69,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "A Moment in Time",
+    "year": 2006,
+    "tracks": 18,
+    "genre": "Atmospheric Rock",
+    "rating": 10,
+    "cover": "assets/images/10290.jpg"
+  },
+  {
+    "id": 70,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Hindsight",
+    "year": 2008,
+    "tracks": 10,
+    "genre": "Acoustic Atmospheric Rock",
+    "rating": 8,
+    "cover": "assets/images/14904.jpg"
+  },
+  {
+    "id": 71,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "We're Here Because We're Here",
+    "year": 2010,
+    "tracks": 10,
+    "genre": "Atmospheric Rock",
+    "rating": 8,
+    "cover": "assets/images/23830.jpg"
+  },
+  {
+    "id": 72,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Falling Deeper",
+    "year": 2011,
+    "tracks": 9,
+    "genre": "Atmospheric Rock",
+    "rating": 10,
+    "cover": "assets/images/29909.jpg"
+  },
+  {
+    "id": 73,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Weather Systems",
+    "year": 2012,
+    "tracks": 9,
+    "genre": "Atmospheric Rock",
+    "rating": 9,
+    "cover": "assets/images/31409.jpg"
+  },
+  {
+    "id": 73,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Universal",
+    "year": 2013,
+    "tracks": 16,
+    "genre": "Atmospheric Rock",
+    "rating": 10,
+    "cover": "assets/images/35889.jpg"
+  },
+  {
+    "id": 74,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "Distant Satellites",
+    "year": 2014,
+    "tracks": 20,
+    "genre": "Atmospheric Rock",
+    "rating": 8,
+    "cover": "assets/images/36982.jpg"
+  },
+  {
+    "id": 75,
+    "artist": "Anathema",
+    "country": "United Kingdom",
+    "album": "The Optimist",
+    "year": 2017,
+    "tracks": 12,
+    "genre": "Progressive Alternative Rock",
+    "rating": 7,
+    "cover": "assets/images/43866.jpg"
   }
 ]
