@@ -32,3 +32,11 @@ JSON Server API for Rolling Scopes School task "React.API".
 - From the Vercel dashboard, click "**+ New Project**" then "**Import**" your repository
 - In the "**Configure Project**" screen, leave everything default, add `npm install` and click "**Deploy**"
 - Wait until deployment is done, and your own JSON server is ready to serve!
+
+### Query Params
+
+    Optional:
+
+    `_page=[integer]`
+
+    `_limit=[integer]`
