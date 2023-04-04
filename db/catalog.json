@@ -8,7 +8,7 @@
     "tracks": 8,
     "genre": "Sludge Post Metal",
     "rating": 10,
-    "cover": "assets/image/2406.jpg"
+    "cover": "assets/images/2406.jpg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "tracks": 7,
     "genre": "Sludge Post Metal",
     "rating": 8,
-    "cover": "assets/image/9532.jpg"
+    "cover": "assets/images/9532.jpg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "tracks": 10,
     "genre": "Sludge Post Metal",
     "rating": 9,
-    "cover": "assets/image/13566.jpg"
+    "cover": "assets/images/13566.jpg"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "tracks": 10,
     "genre": "Sludge Post Metal",
     "rating": 10,
-    "cover": "assets/image/20166.jpg"
+    "cover": "assets/images/20166.jpg"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "tracks": 10,
     "genre": "Sludge Post Metal",
     "rating": 9,
-    "cover": "assets/image/33731.jpg"
+    "cover": "assets/images/33731.jpg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "tracks": 6,
     "genre": "Sludge Post Metal",
     "rating": 8,
-    "cover": "assets/image/42754.jpg"
+    "cover": "assets/images/42754.jpg"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "tracks": 27,
     "genre": "Sludge Post Metal",
     "rating": 9,
-    "cover": "assets/image/43930.jpg"
+    "cover": "assets/images/43930.jpg"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "tracks": 8,
     "genre": "Sludge Post Metal",
     "rating": 8,
-    "cover": "assets/image/47606.jpg"
+    "cover": "assets/images/47606.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "tracks": 9,
     "genre": "Sludge Post Metal",
     "rating": 7,
-    "cover": "assets/image/34473.jpg"
+    "cover": "assets/images/34473.jpg"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "tracks": 5,
     "genre": "Post Metal",
     "rating": 7,
-    "cover": "assets/image/34473.jpg"
+    "cover": "assets/images/34473.jpg"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "tracks": 6,
     "genre": "Post Metal",
     "rating": 6,
-    "cover": "assets/image/15253.jpg"
+    "cover": "assets/images/15253.jpg"
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
     "tracks": 7,
     "genre": "Post Metal",
     "rating": 7,
-    "cover": "assets/image/15254.jpg"
+    "cover": "assets/images/15254.jpg"
   },
   {
     "id": 13,
@@ -140,7 +140,7 @@
     "tracks": 8,
     "genre": "Post Metal",
     "rating": 8,
-    "cover": "assets/image/34475.jpg"
+    "cover": "assets/images/34475.jpg"
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@
     "tracks": 4,
     "genre": "Post Metal",
     "rating": 9,
-    "cover": "assets/image/34476.jpg"
+    "cover": "assets/images/34476.jpg"
   },
   {
     "id": 15,
@@ -162,7 +162,7 @@
     "tracks": 6,
     "genre": "Post Metal",
     "rating": 9,
-    "cover": "assets/image/44467.jpg"
+    "cover": "assets/images/44467.jpg"
   },
   {
     "id": 16,
@@ -173,7 +173,7 @@
     "tracks": 9,
     "genre": "Melodic Doom Metal",
     "rating": 9,
-    "cover": "assets/image/2111.jpg"
+    "cover": "assets/images/2111.jpg"
   },
   {
     "id": 17,
@@ -184,7 +184,7 @@
     "tracks": 6,
     "genre": "Melodic Doom Metal",
     "rating": 7,
-    "cover": "assets/image/6469.jpg"
+    "cover": "assets/images/6469.jpg"
   },
   {
     "id": 18,
@@ -195,7 +195,7 @@
     "tracks": 12,
     "genre": "Melodic Doom Metal",
     "rating": 9,
-    "cover": "assets/image/1800.jpg"
+    "cover": "assets/images/1800.jpg"
   },
   {
     "id": 19,
@@ -206,7 +206,7 @@
     "tracks": 8,
     "genre": "Melodic Doom Metal",
     "rating": 9,
-    "cover": "assets/image/8022.jpg"
+    "cover": "assets/images/8022.jpg"
   },
   {
     "id": 20,
@@ -217,7 +217,7 @@
     "tracks": 9,
     "genre": "Melodic Doom Metal",
     "rating": 9,
-    "cover": "assets/image/33296.jpg"
+    "cover": "assets/images/33296.jpg"
   },
   {
     "id": 21,
@@ -228,7 +228,7 @@
     "tracks": 3,
     "genre": "Instrumental Post Rock",
     "rating": 9,
-    "cover": "assets/image/7976.jpg"
+    "cover": "assets/images/7976.jpg"
   },
   {
     "id": 22,
@@ -239,7 +239,7 @@
     "tracks": 2,
     "genre": "Instrumental Post Rock",
     "rating": 7,
-    "cover": "assets/image/8102.jpg"
+    "cover": "assets/images/8102.jpg"
   },
   {
     "id": 23,
@@ -250,7 +250,7 @@
     "tracks": 4,
     "genre": "Instrumental Post Rock",
     "rating": 10,
-    "cover": "assets/image/20751.jpg"
+    "cover": "assets/images/20751.jpg"
   },
   {
     "id": 24,
@@ -261,7 +261,7 @@
     "tracks": 5,
     "genre": "Instrumental Post Rock",
     "rating": 10,
-    "cover": "assets/image/26589.jpg"
+    "cover": "assets/images/26589.jpg"
   },
   {
     "id": 25,
@@ -272,7 +272,7 @@
     "tracks": 4,
     "genre": "Instrumental Post Rock",
     "rating": 9,
-    "cover": "assets/image/33280.jpg"
+    "cover": "assets/images/33280.jpg"
   },
   {
     "id": 26,
@@ -283,7 +283,7 @@
     "tracks": 4,
     "genre": "Instrumental Post Rock",
     "rating": 6,
-    "cover": "assets/image/39149.jpg"
+    "cover": "assets/images/39149.jpg"
   },
   {
     "id": 27,
@@ -294,7 +294,7 @@
     "tracks": 8,
     "genre": "Post Rock",
     "rating": 9,
-    "cover": "assets/image/sdf8sdf25shj.jpg"
+    "cover": "assets/images/sdf8sdf25shj.jpg"
   },
   {
     "id": 28,
@@ -305,7 +305,7 @@
     "tracks": 9,
     "genre": "Post Rock",
     "rating": 7,
-    "cover": "assets/image/sdf646sdfsgs.jpg"
+    "cover": "assets/images/sdf646sdfsgs.jpg"
   },
   {
     "id": 29,
@@ -316,7 +316,7 @@
     "tracks": 8,
     "genre": "Post Rock",
     "rating": 8,
-    "cover": "assets/image/inh4oy57v83nyp.jpg"
+    "cover": "assets/images/inh4oy57v83nyp.jpg"
   },
   {
     "id": 30,
@@ -327,7 +327,7 @@
     "tracks": 8,
     "genre": "Post Rock",
     "rating": 7,
-    "cover": "assets/image/poifnnpwbwoii.jpg"
+    "cover": "assets/images/poifnnpwbwoii.jpg"
   },
   {
     "id": 31,
@@ -338,7 +338,7 @@
     "tracks": 8,
     "genre": "Post Rock",
     "rating": 6,
-    "cover": "assets/image/asghscnpvuy.jpg"
+    "cover": "assets/images/asghscnpvuy.jpg"
   },
   {
     "id": 32,
@@ -349,7 +349,7 @@
     "tracks": 5,
     "genre": "Post Rock",
     "rating": 7,
-    "cover": "assets/image/nsvgp93w50.jpg"
+    "cover": "assets/images/nsvgp93w50.jpg"
   },
   {
     "id": 33,
@@ -360,7 +360,7 @@
     "tracks": 9,
     "genre": "Gothic Doom Metal",
     "rating": 10,
-    "cover": "assets/image/3113.jpg"
+    "cover": "assets/images/3113.jpg"
   },
   {
     "id": 34,
@@ -371,7 +371,7 @@
     "tracks": 4,
     "genre": "Gothic Doom Metal",
     "rating": 7,
-    "cover": "assets/image/3972.jpg"
+    "cover": "assets/images/3972.jpg"
   },
   {
     "id": 35,
@@ -382,7 +382,7 @@
     "tracks": 9,
     "genre": "Gothic Doom Metal",
     "rating": 9,
-    "cover": "assets/image/3306.jpg"
+    "cover": "assets/images/3306.jpg"
   },
   {
     "id": 36,
@@ -393,7 +393,7 @@
     "tracks": 10,
     "genre": "Atmospheric Gothic Metal",
     "rating": 8,
-    "cover": "assets/image/147.jpg"
+    "cover": "assets/images/147.jpg"
   },
   {
     "id": 37,
@@ -404,7 +404,7 @@
     "tracks": 12,
     "genre": "Synth Gothic Metal",
     "rating": 6,
-    "cover": "assets/image/1909.jpg"
+    "cover": "assets/images/1909.jpg"
   },
   {
     "id": 38,
@@ -415,7 +415,7 @@
     "tracks": 10,
     "genre": "Gothic Metal",
     "rating": 8,
-    "cover": "assets/image/578.jpg"
+    "cover": "assets/images/578.jpg"
   },
   {
     "id": 39,
@@ -426,7 +426,7 @@
     "tracks": 11,
     "genre": "Synth Gothic Metal",
     "rating": 7,
-    "cover": "assets/image/282.jpg"
+    "cover": "assets/images/282.jpg"
   },
   {
     "id": 40,
@@ -437,7 +437,7 @@
     "tracks": 10,
     "genre": "Gothic Metal",
     "rating": 6,
-    "cover": "assets/image/7205.jpg"
+    "cover": "assets/images/7205.jpg"
   },
   {
     "id": 41,
@@ -448,6 +448,204 @@
     "tracks": 10,
     "genre": "Gothic Metal",
     "rating": 7,
-    "cover": "assets/image/21534.jpg"
+    "cover": "assets/images/21534.jpg"
+  },
+  {
+    "id": 42,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Spirit",
+    "year": 2006,
+    "tracks": 11,
+    "genre": "Pagan Folk Metal",
+    "rating": 7,
+    "cover": "assets/images/11818.jpg"
+  },
+  {
+    "id": 43,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Slania",
+    "year": 2008,
+    "tracks": 13,
+    "genre": "Pagan Folk Metal",
+    "rating": 9,
+    "cover": "assets/images/12490.jpg"
+  },
+  {
+    "id": 44,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Evocation I - The Arcane Dominion",
+    "year": 2009,
+    "tracks": 17,
+    "genre": "Acoustic Folk",
+    "rating": 8,
+    "cover": "assets/images/19186.jpg"
+  },
+  {
+    "id": 45,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Everything Remains (As It Never Was)",
+    "year": 2010,
+    "tracks": 13,
+    "genre": "Folk Death Metal",
+    "rating": 6,
+    "cover": "assets/images/23197.jpg"
+  },
+  {
+    "id": 46,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Helvetios",
+    "year": 2012,
+    "tracks": 17,
+    "genre": "Folk Death Metal",
+    "rating": 7,
+    "cover": "assets/images/30994.jpg"
+  },
+  {
+    "id": 47,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Origins",
+    "year": 2014,
+    "tracks": 16,
+    "genre": "Folk Death Metal",
+    "rating": 5,
+    "cover": "assets/images/37528.jpg"
+  },
+  {
+    "id": 48,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Evocation II - Pantheon",
+    "year": 2017,
+    "tracks": 18,
+    "genre": "Acoustic Folk",
+    "rating": 7,
+    "cover": "assets/images/44346.jpg"
+  },
+  {
+    "id": 49,
+    "artist": "Eluveitie",
+    "country": "Swiss",
+    "album": "Ategnatos",
+    "year": 2019,
+    "tracks": 19,
+    "genre": "Folk Death Metal",
+    "rating": 9,
+    "cover": "assets/images/46686.jpg"
+  },
+  {
+    "id": 50,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Metal Opera",
+    "year": 2001,
+    "tracks": 13,
+    "genre": "Power Metal",
+    "rating": 9,
+    "cover": "assets/images/2986.jpg"
+  },
+  {
+    "id": 51,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Metal Opera Pt. II",
+    "year": 2002,
+    "tracks": 10,
+    "genre": "Power Metal",
+    "rating": 8,
+    "cover": "assets/images/2987.jpg"
+  },
+  {
+    "id": 52,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Scarecrow",
+    "year": 2008,
+    "tracks": 18,
+    "genre": "Power Metal",
+    "rating": 8,
+    "cover": "assets/images/11806.jpg"
+  },
+  {
+    "id": 53,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "Angel of Babylon",
+    "year": 2010,
+    "tracks": 11,
+    "genre": "Symphonic Power Metal",
+    "rating": 8,
+    "cover": "assets/images/23871.jpg"
+  },
+  {
+    "id": 54,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Wicked Symphony",
+    "year": 2010,
+    "tracks": 11,
+    "genre": "Symphonic Power Metal",
+    "rating": 9,
+    "cover": "assets/images/23872.jpg"
+  },
+  {
+    "id": 56,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Flying Opera - Around the World in 20 Days",
+    "year": 2011,
+    "tracks": 16,
+    "genre": "Power Metal",
+    "rating": 9,
+    "cover": "assets/images/28039.jpg"
+  },
+  {
+    "id": 57,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "The Mystery of Time",
+    "year": 2013,
+    "tracks": 10,
+    "genre": "Power Metal",
+    "rating": 6,
+    "cover": "assets/images/33753.jpg"
+  },
+  {
+    "id": 58,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "Ghostlights",
+    "year": 2016,
+    "tracks": 36,
+    "genre": "Power Metal",
+    "rating": 7,
+    "cover": "assets/images/41229.jpg"
+  },
+  {
+    "id": 59,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "Moonglow",
+    "year": 2019,
+    "tracks": 12,
+    "genre": "Symphonic Power Metal",
+    "rating": 9,
+    "cover": "assets/images/46224.jpg"
+  },
+  {
+    "id": 60,
+    "artist": "Avantasia",
+    "country": "Germany",
+    "album": "A Paranormal Evening With The Moonflower Society",
+    "year": 2022,
+    "tracks": 11,
+    "genre": "Symphonic Power Metal",
+    "rating": 7,
+    "cover": "assets/images/50899.jpg"
   }
 ]
