@@ -834,5 +834,38 @@
     "genre": "Progressive Alternative Rock",
     "rating": 7,
     "cover": "assets/images/43866.jpg"
+  },
+  {
+    "id": 77,
+    "artist": "Batushka",
+    "country": "Poland",
+    "album": "Литургия",
+    "year": 2015,
+    "tracks": 8,
+    "genre": "Atmospheric Black Metal",
+    "rating": 8,
+    "cover": "assets/images/41385.jpg"
+  },
+  {
+    "id": 78,
+    "artist": "Batushka",
+    "country": "Poland",
+    "album": "Hospodi",
+    "year": 2019,
+    "tracks": 10,
+    "genre": "Atmospheric Black Metal",
+    "rating": 4,
+    "cover": "assets/images/46858.jpg"
+  },
+  {
+    "id": 79,
+    "artist": "Batushka",
+    "country": "Poland",
+    "album": "Панихида",
+    "year": 2019,
+    "tracks": 8,
+    "genre": "Atmospheric Black Metal",
+    "rating": 6,
+    "cover": "assets/images/46762.jpg"
   }
 ]
