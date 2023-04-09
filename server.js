@@ -2,10 +2,10 @@
 const jsonServer = require('json-server');
 const catalog = require('./db/catalog.json');
 
-const PORT = 3000;
+const PORT = process.env.PORT ?? 3000;
 
 const db = {
-  catalog: catalog
+  catalog: catalog,
 };
 
 const server = jsonServer.create();
@@ -17,15 +17,15 @@ server.use(jsonServer.defaults({ readOnly: true }));
 
 // Avoid CORS issue
 server.use(function (req, res, next) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
   next();
 });
 
 // Add this before server.use(router)
 server.use(
   // Add custom route here if needed
-  jsonServer.rewriter({ '/api/*': '/$1', })
+  jsonServer.rewriter({ '/api/*': '/$1' })
 );
 
 server.use(router);
